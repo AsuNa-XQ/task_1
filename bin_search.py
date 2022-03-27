@@ -6,10 +6,9 @@ for i in range(10):
 a.sort()
 print(a)
  
-# искомое число
 value = int(input())
  
-mid = len(a) // 2
+midle = len(a) // 2
 low = 0
 high = len(a) - 1
  
